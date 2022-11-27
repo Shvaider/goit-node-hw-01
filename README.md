@@ -4,9 +4,8 @@
 ```
 node index.js --action list
 ```
-![list](https://monosnap.com/file/CFVFgCBXPHDHt9nGJV0CSRfAfabIB6)
 
-<a href="https://monosnap.com/file/CFVFgCBXPHDHt9nGJV0CSRfAfabIB6" rel="noopener noreferrer" target="_blank"></a>
+<a href="https://monosnap.com/file/CFVFgCBXPHDHt9nGJV0CSRfAfabIB6" rel="noopener noreferrer" target="_blank"><img src="./img/add.jpg"/></a>
 > ### Получаем контакт по id
 ```
 node index.js --action get --id 5
